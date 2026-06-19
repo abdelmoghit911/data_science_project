@@ -1,0 +1,19 @@
+# Core
+pandas>=1.5
+numpy>=1.24
+
+# Visualisation
+matplotlib>=3.7
+seaborn>=0.12
+
+# Machine Learning
+scikit-learn>=1.2
+xgboost>=1.7
+lightgbm>=4.0
+joblib>=1.2
+
+# NLP (for label encoding fallbacks)
+scipy>=1.10
+
+# Notebook
+jupyter>=1.0
